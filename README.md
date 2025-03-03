@@ -1,6 +1,3 @@
-Here’s a detailed explanation of your project in English for your GitHub repository:
-
----
 
 # **Marketing Performance Dashboard using Power BI**
 
@@ -41,7 +38,3 @@ This project presents a **Marketing Performance Dashboard** built using **Power 
 1. Open the **Power BI file (.pbix)** to explore insights.  
 2. Use **filters** to analyze specific channels, campaigns, or locations.  
 3. Interpret **visualizations** to optimize marketing strategies.  
-
----
-
-This explanation is **clean, professional, and to the point**. You can copy-paste it into your **README.md** file on GitHub. Let me know if you need any modifications!
